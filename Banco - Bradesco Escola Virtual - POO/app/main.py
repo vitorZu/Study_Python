@@ -1,5 +1,4 @@
 class Main:
-    
     from cliente import Clientes
     from conta import Contas
 
